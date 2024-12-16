@@ -100,7 +100,7 @@ The goal is to develop robust detection models that balance recall (to minimize 
 
 	•  Macro Average F1-Score: 0.53
 
-•  Weighted Average F1-Score: 0.57
+	•  Weighted Average F1-Score: 0.57
 
 ## Dataset
 
